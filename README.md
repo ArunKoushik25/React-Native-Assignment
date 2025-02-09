@@ -1,5 +1,6 @@
 # Job Finder App
-[Watch the Video]([https://drive.google.com/file/d/1A2B3C4D5E6F7G8H9/view?usp=sharing](https://drive.google.com/file/d/1WmIwRR38M4wadEjxnFnMbP4sjwmUTt2d/view?usp=drive_link))
+<iframe src="(https://drive.google.com/file/d/1WmIwRR38M4wadEjxnFnMbP4sjwmUTt2d/view?usp=drive_link)" width="640" height="480" allow="autoplay"></iframe>
+
 
 
 Job Finder is a React Native application designed to help users find, save, and explore job listings. The app fetches job data from a remote API and allows users to bookmark jobs for future reference. It includes features such as job searching, filtering, bookmarking, and detailed job descriptions.
