@@ -1,5 +1,5 @@
 # Job Finder App
-<iframe src="(https://drive.google.com/file/d/1WmIwRR38M4wadEjxnFnMbP4sjwmUTt2d/view?usp=drive_link)" width="640" height="480" allow="autoplay"></iframe>
+Video Link:"(https://drive.google.com/file/d/1WmIwRR38M4wadEjxnFnMbP4sjwmUTt2d/view?usp=drive_link)" 
 
 
 
